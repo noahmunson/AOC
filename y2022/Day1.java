@@ -1,4 +1,4 @@
-package y2022d1;
+package y2022;
 public class Day1 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
